@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Iproute2, iptables REST API
+=======
+# Iproute2, iptables REST API
+>>>>>>> 664176d25ee1db616ef6904bc1a6bf99f44c1b8f
 
 IPRoute rest api is used for remote
 control of routing tables on virtual machine / container.
@@ -45,4 +49,7 @@ cd iptables
 ./iptables-api -ip IP
 ```
 IP is IPv4 on which will be API listening
+<<<<<<< HEAD
 
+=======
+>>>>>>> 664176d25ee1db616ef6904bc1a6bf99f44c1b8f
